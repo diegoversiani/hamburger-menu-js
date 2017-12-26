@@ -1,21 +1,21 @@
 {
-  "name": "hamburguer-menu-js",
+  "name": "hamburger-menu-js",
   "version": "1.0.0",
   "description": "Instantiable plugin for hamburger menus.",
-  "main": "dist/hamburguer-menu.js",
+  "main": "dist/hamburger-menu.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegoversiani/hamburguer-menu-js.git"
+    "url": "https://github.com/diegoversiani/hamburger-menu-js.git"
   },
   "author": "Diego Versiani",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diegoversiani/hamburguer-menu-js/issues"
+    "url": "https://github.com/diegoversiani/hamburger-menu-js/issues"
   },
-  "homepage": "https://diegoversiani.me/hamburguer-menu-js",
+  "homepage": "https://diegoversiani.me/hamburger-menu-js",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
